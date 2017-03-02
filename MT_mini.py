@@ -1,3 +1,5 @@
+#this is the training part. It also contains the translation part which uses greedy search. 
+#Beam search version for translation can be found in beam.py
 from collections import defaultdict
 import dynet as dy
 import numpy as np

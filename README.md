@@ -8,4 +8,5 @@ How to run:
 1. start a p2.xlarge instance on aws.
 2. Use AMI provided by course instructor.
 3. GPU+at least 11G memory
+4. python MT_mini.py
 Each epoch takes about 30 minutes.
